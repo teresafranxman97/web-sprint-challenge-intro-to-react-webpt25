@@ -30,7 +30,11 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+A: React JS was originally built by the Facebook team to help solve some of the major issues they were facing when dealing with complex state. React is not a framework, but instead a JavaScript library that focuses on building User Interfaces.
+
 1. Describe component state.
+
+A:
 
 1. Describe props.
 
